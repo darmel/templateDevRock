@@ -35,7 +35,7 @@ header{
 .principal{
 	background: red;
 	height: 90vh;
-	background: url(../images/23926343_1661500030582540_5469621639768249700_o.jpg)no-repeat center center fixed; 
+	background: url(../images/fondo.jpg)no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -56,14 +56,14 @@ header{
 	text-align: center;
 }
 h1{
-	font-weight: 700;
+	font-weight: 900;
 	font-size: 50px;
-	color: rgba(255,255,255,.7);
+	color: blue/*rgba(255,255,255,.7);*/
 }
 
 .orange{
 
-	background: #FF00FF;
+	background: #1155AA;
 }
 
 .nosotros{
